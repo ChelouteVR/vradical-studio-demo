@@ -4,7 +4,7 @@ Download camera-specific demos of **VRadical Studio** for macOS and Windows.
 
 ## Insta360 EVO demo
 
-[**Download the Insta360 EVO demo**](https://github.com/ChelouteVR/vradical-studio-demo/releases/tag/v1.0.0-insta360-evo-demo)
+[**Download the Insta360 EVO demo**](https://github.com/ChelouteVR/vradical-studio-demo/releases/tag/v1.0.0-insta360-evo-demo.1)
 
 | Platform | Requirements | Download |
 | --- | --- | --- |
