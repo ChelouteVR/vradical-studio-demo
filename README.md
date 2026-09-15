@@ -4,7 +4,7 @@ Download camera-specific demos of **VRadical Studio** for macOS and Windows.
 
 ## Insta360 EVO demo
 
-[**Download the Insta360 EVO demo**](https://github.com/ChelouteVR/vradical-studio-demo/releases/tag/v1.0.0-insta360-evo-demo.1)
+[**Download the Insta360 EVO demo**](https://github.com/ChelouteVR/vradical-studio-demo/releases/tag/v1.0.0-insta360-evo-demo.2)
 
 | Platform | Requirements | Download |
 | --- | --- | --- |
@@ -23,9 +23,9 @@ Other camera models are not supported by this demo.
 - **macOS:** open the DMG and drag the application to Applications.
 - **Windows:** run the setup executable and follow the installer.
 
-The macOS package uses an ad-hoc signature and is not notarized. The Windows
-installer is unsigned. Operating-system approval may be required on first
-installation or launch.
+The macOS application and DMG are Developer ID signed, Apple notarized and
+stapled. The downloaded package and its application pass Gatekeeper checks.
+The Windows installer is unsigned; Windows may request approval on first launch.
 
 A `SHA256SUMS.txt` file accompanies the release so you can verify each download.
 
